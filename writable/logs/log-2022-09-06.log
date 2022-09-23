@@ -1,0 +1,731 @@
+CRITICAL - 2022-09-06 20:23:42 --> Call to a member function findAll() on null
+in APPPATH\Controllers\SuratMasuk.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:24:19 --> Call to a member function findAll() on null
+in APPPATH\Controllers\SuratMasuk.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:24:20 --> Call to a member function findAll() on null
+in APPPATH\Controllers\SuratMasuk.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:24:20 --> Call to a member function findAll() on null
+in APPPATH\Controllers\SuratMasuk.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:24:31 --> Call to a member function findAll() on null
+in APPPATH\Controllers\SuratMasuk.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:24:32 --> Call to a member function findAll() on null
+in APPPATH\Controllers\SuratMasuk.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:24:32 --> Call to a member function findAll() on null
+in APPPATH\Controllers\SuratMasuk.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:26:01 --> Call to a member function findAll() on null
+in APPPATH\Controllers\SuratMasuk.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:26:04 --> Call to a member function findAll() on null
+in APPPATH\Controllers\SuratMasuk.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:26:04 --> Call to a member function findAll() on null
+in APPPATH\Controllers\SuratMasuk.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:26:04 --> Call to a member function findAll() on null
+in APPPATH\Controllers\SuratMasuk.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:26:04 --> Call to a member function findAll() on null
+in APPPATH\Controllers\SuratMasuk.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:28:16 --> Class 'App\Models\SuratMasukModels' not found
+in APPPATH\Controllers\SuratMasuk.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\SuratMasuk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:28:16 --> Class 'App\Models\SuratMasukModels' not found
+in APPPATH\Controllers\SuratMasuk.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\SuratMasuk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:28:17 --> Class 'App\Models\SuratMasukModels' not found
+in APPPATH\Controllers\SuratMasuk.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\SuratMasuk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:28:17 --> Class 'App\Models\SuratMasukModels' not found
+in APPPATH\Controllers\SuratMasuk.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\SuratMasuk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:28:17 --> Class 'App\Models\SuratMasukModels' not found
+in APPPATH\Controllers\SuratMasuk.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\SuratMasuk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:28:17 --> Class 'App\Models\SuratMasukModels' not found
+in APPPATH\Controllers\SuratMasuk.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\SuratMasuk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:28:17 --> Class 'App\Models\SuratMasukModels' not found
+in APPPATH\Controllers\SuratMasuk.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\SuratMasuk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:28:18 --> Class 'App\Models\SuratMasukModels' not found
+in APPPATH\Controllers\SuratMasuk.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\SuratMasuk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:28:18 --> Class 'App\Models\SuratMasukModels' not found
+in APPPATH\Controllers\SuratMasuk.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\SuratMasuk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:29:09 --> Class 'App\Models\SuratMasukModels' not found
+in APPPATH\Controllers\SuratMasuk.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\SuratMasuk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:29:10 --> Class 'App\Models\SuratMasukModels' not found
+in APPPATH\Controllers\SuratMasuk.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\SuratMasuk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:29:10 --> Class 'App\Models\SuratMasukModels' not found
+in APPPATH\Controllers\SuratMasuk.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\SuratMasuk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:29:11 --> Class 'App\Models\SuratMasukModels' not found
+in APPPATH\Controllers\SuratMasuk.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\SuratMasuk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:29:30 --> Class 'App\Models\SuratMasukModels' not found
+in APPPATH\Controllers\SuratMasuk.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\SuratMasuk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:29:30 --> Class 'App\Models\SuratMasukModels' not found
+in APPPATH\Controllers\SuratMasuk.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\SuratMasuk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:29:30 --> Class 'App\Models\SuratMasukModels' not found
+in APPPATH\Controllers\SuratMasuk.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\SuratMasuk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:29:43 --> Class 'App\Models\SuratMasukModels' not found
+in APPPATH\Controllers\SuratMasuk.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\SuratMasuk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 20:29:44 --> Class 'App\Models\SuratMasukModels' not found
+in APPPATH\Controllers\SuratMasuk.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\SuratMasuk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-06 20:30:10 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 F:\XAMPP\htdocs\sisuar\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 F:\XAMPP\htdocs\sisuar\system\Model.php(223): CodeIgniter\Database\BaseBuilder->get()
+#5 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 F:\XAMPP\htdocs\sisuar\app\Controllers\SuratMasuk.php(20): CodeIgniter\BaseModel->findAll()
+#7 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+#8 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+#9 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 F:\XAMPP\htdocs\sisuar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 F:\XAMPP\htdocs\sisuar\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 F:\XAMPP\htdocs\sisuar\system\Model.php(223): CodeIgniter\Database\BaseBuilder->get()
+#4 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#5 F:\XAMPP\htdocs\sisuar\app\Controllers\SuratMasuk.php(20): CodeIgniter\BaseModel->findAll()
+#6 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+#7 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+#8 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 F:\XAMPP\htdocs\sisuar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-09-06 20:30:10 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `surat_masuk`', [], false)
+ 3 SYSTEMPATH\Model.php(223): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\SuratMasuk.php(20): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 21:20:23 --> Undefined variable: suratmasuk
+in APPPATH\Views\surat\suratkeluar\indexsuratkeluar.php on line 22.
+ 1 APPPATH\Views\surat\suratkeluar\indexsuratkeluar.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: suratmasuk', 'APPPATH\\Views\\surat\\suratkeluar\\indexsuratkeluar.php', 22, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\surat\\suratkeluar\\indexsuratkeluar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/suratkeluar/indexsuratkeluar.php', [], true)
+ 5 APPPATH\Controllers\SuratKeluar.php(22): view('surat/suratkeluar/indexsuratkeluar.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratKeluar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratKeluar))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-06 21:57:30 --> mysqli_sql_exception: Unknown column 'created_at' in 'field list' in F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `su...', 0)
+#1 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 F:\XAMPP\htdocs\sisuar\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 F:\XAMPP\htdocs\sisuar\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 F:\XAMPP\htdocs\sisuar\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, false)
+#7 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 F:\XAMPP\htdocs\sisuar\app\Controllers\SuratMasuk.php(36): CodeIgniter\BaseModel->save(Array)
+#9 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(904): App\Controllers\SuratMasuk->tambahSuratMasuk()
+#10 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+#11 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\XAMPP\htdocs\sisuar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-09-06 21:57:30 --> Unknown column 'created_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Himakom ULM\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\', \'2022-09-06 21:57:30\', \'2022-09-06 21:57:30\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Himakom ULM\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\', \'2022-09-06 21:57:30\', \'2022-09-06 21:57:30\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Himakom ULM\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\', \'2022-09-06 21:57:30\', \'2022-09-06 21:57:30\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (:no_surat:, :asal_surat:, :tujuan_surat:, :perihal:, :ket_surat:, :file:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(658): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\SuratMasuk.php(36): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->tambahSuratMasuk()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-06 21:58:24 --> mysqli_sql_exception: Unknown column 'created_at' in 'field list' in F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `su...', 0)
+#1 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 F:\XAMPP\htdocs\sisuar\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 F:\XAMPP\htdocs\sisuar\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 F:\XAMPP\htdocs\sisuar\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, false)
+#7 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 F:\XAMPP\htdocs\sisuar\app\Controllers\SuratMasuk.php(36): CodeIgniter\BaseModel->save(Array)
+#9 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(904): App\Controllers\SuratMasuk->tambahSuratMasuk()
+#10 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+#11 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\XAMPP\htdocs\sisuar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-09-06 21:58:24 --> Unknown column 'created_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Himakom ULM\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\', \'2022-09-06 21:58:24\', \'2022-09-06 21:58:24\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Himakom ULM\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\', \'2022-09-06 21:58:24\', \'2022-09-06 21:58:24\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Himakom ULM\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\', \'2022-09-06 21:58:24\', \'2022-09-06 21:58:24\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (:no_surat:, :asal_surat:, :tujuan_surat:, :perihal:, :ket_surat:, :file:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(658): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\SuratMasuk.php(36): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->tambahSuratMasuk()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-06 21:58:37 --> mysqli_sql_exception: Unknown column 'created_at' in 'field list' in F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `su...', 0)
+#1 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 F:\XAMPP\htdocs\sisuar\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 F:\XAMPP\htdocs\sisuar\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 F:\XAMPP\htdocs\sisuar\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, false)
+#7 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 F:\XAMPP\htdocs\sisuar\app\Controllers\SuratMasuk.php(36): CodeIgniter\BaseModel->save(Array)
+#9 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(904): App\Controllers\SuratMasuk->tambahSuratMasuk()
+#10 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+#11 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\XAMPP\htdocs\sisuar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-09-06 21:58:37 --> Unknown column 'created_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Himakom ULM\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\', \'2022-09-06 21:58:37\', \'2022-09-06 21:58:37\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Himakom ULM\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\', \'2022-09-06 21:58:37\', \'2022-09-06 21:58:37\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Himakom ULM\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\', \'2022-09-06 21:58:37\', \'2022-09-06 21:58:37\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (:no_surat:, :asal_surat:, :tujuan_surat:, :perihal:, :ket_surat:, :file:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(658): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\SuratMasuk.php(36): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->tambahSuratMasuk()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-06 22:00:11 --> mysqli_sql_exception: Unknown column 'created_at' in 'field list' in F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `su...', 0)
+#1 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 F:\XAMPP\htdocs\sisuar\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 F:\XAMPP\htdocs\sisuar\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 F:\XAMPP\htdocs\sisuar\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, false)
+#7 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 F:\XAMPP\htdocs\sisuar\app\Controllers\SuratMasuk.php(36): CodeIgniter\BaseModel->save(Array)
+#9 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(904): App\Controllers\SuratMasuk->tambahSuratMasuk()
+#10 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+#11 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\XAMPP\htdocs\sisuar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-09-06 22:00:11 --> Unknown column 'created_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Himakom ULM\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\', \'2022-09-06 22:00:11\', \'2022-09-06 22:00:11\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Himakom ULM\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\', \'2022-09-06 22:00:11\', \'2022-09-06 22:00:11\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Himakom ULM\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\', \'2022-09-06 22:00:11\', \'2022-09-06 22:00:11\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (:no_surat:, :asal_surat:, :tujuan_surat:, :perihal:, :ket_surat:, :file:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(658): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\SuratMasuk.php(36): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->tambahSuratMasuk()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-06 22:02:54 --> mysqli_sql_exception: Unknown column 'created_at' in 'field list' in F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `su...', 0)
+#1 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 F:\XAMPP\htdocs\sisuar\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 F:\XAMPP\htdocs\sisuar\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 F:\XAMPP\htdocs\sisuar\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, false)
+#7 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 F:\XAMPP\htdocs\sisuar\app\Controllers\SuratMasuk.php(36): CodeIgniter\BaseModel->save(Array)
+#9 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(904): App\Controllers\SuratMasuk->tambahSuratMasuk()
+#10 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+#11 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\XAMPP\htdocs\sisuar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-09-06 22:02:54 --> Unknown column 'created_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Banjarmasin\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\', \'2022-09-06 22:02:54\', \'2022-09-06 22:02:54\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Banjarmasin\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\', \'2022-09-06 22:02:54\', \'2022-09-06 22:02:54\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Banjarmasin\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\', \'2022-09-06 22:02:54\', \'2022-09-06 22:02:54\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (:no_surat:, :asal_surat:, :tujuan_surat:, :perihal:, :ket_surat:, :file:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(658): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\SuratMasuk.php(36): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->tambahSuratMasuk()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-06 22:04:20 --> mysqli_sql_exception: Unknown column 'created_at' in 'field list' in F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `su...', 0)
+#1 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 F:\XAMPP\htdocs\sisuar\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 F:\XAMPP\htdocs\sisuar\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 F:\XAMPP\htdocs\sisuar\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, false)
+#7 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 F:\XAMPP\htdocs\sisuar\app\Controllers\SuratMasuk.php(36): CodeIgniter\BaseModel->save(Array)
+#9 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(904): App\Controllers\SuratMasuk->tambahSuratMasuk()
+#10 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+#11 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\XAMPP\htdocs\sisuar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-09-06 22:04:20 --> Unknown column 'created_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Banjarmasin\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\', \'2022-09-06 22:04:20\', \'2022-09-06 22:04:20\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Banjarmasin\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\', \'2022-09-06 22:04:20\', \'2022-09-06 22:04:20\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Banjarmasin\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\', \'2022-09-06 22:04:20\', \'2022-09-06 22:04:20\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (:no_surat:, :asal_surat:, :tujuan_surat:, :perihal:, :ket_surat:, :file:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(658): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\SuratMasuk.php(36): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->tambahSuratMasuk()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-06 22:04:23 --> mysqli_sql_exception: Unknown column 'created_at' in 'field list' in F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `su...', 0)
+#1 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 F:\XAMPP\htdocs\sisuar\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 F:\XAMPP\htdocs\sisuar\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 F:\XAMPP\htdocs\sisuar\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, false)
+#7 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 F:\XAMPP\htdocs\sisuar\app\Controllers\SuratMasuk.php(36): CodeIgniter\BaseModel->save(Array)
+#9 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(904): App\Controllers\SuratMasuk->tambahSuratMasuk()
+#10 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+#11 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\XAMPP\htdocs\sisuar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-09-06 22:04:23 --> Unknown column 'created_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Banjarmasin\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\', \'2022-09-06 22:04:23\', \'2022-09-06 22:04:23\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Banjarmasin\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\', \'2022-09-06 22:04:23\', \'2022-09-06 22:04:23\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Banjarmasin\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\', \'2022-09-06 22:04:23\', \'2022-09-06 22:04:23\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (:no_surat:, :asal_surat:, :tujuan_surat:, :perihal:, :ket_surat:, :file:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(658): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\SuratMasuk.php(36): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->tambahSuratMasuk()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-06 22:09:39 --> mysqli_sql_exception: Column 'ket_surat' cannot be null in F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `su...', 0)
+#1 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 F:\XAMPP\htdocs\sisuar\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 F:\XAMPP\htdocs\sisuar\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 F:\XAMPP\htdocs\sisuar\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, false)
+#7 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 F:\XAMPP\htdocs\sisuar\app\Controllers\SuratMasuk.php(36): CodeIgniter\BaseModel->save(Array)
+#9 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(904): App\Controllers\SuratMasuk->tambahSuratMasuk()
+#10 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+#11 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\XAMPP\htdocs\sisuar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-09-06 22:09:39 --> Column 'ket_surat' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Banjarmasin\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Banjarmasin\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Banjarmasin\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`) VALUES (:no_surat:, :asal_surat:, :tujuan_surat:, :perihal:, :ket_surat:, :file:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(658): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\SuratMasuk.php(36): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->tambahSuratMasuk()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-06 22:14:08 --> mysqli_sql_exception: Column 'ket_surat' cannot be null in F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `su...', 0)
+#1 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 F:\XAMPP\htdocs\sisuar\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 F:\XAMPP\htdocs\sisuar\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 F:\XAMPP\htdocs\sisuar\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, false)
+#7 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 F:\XAMPP\htdocs\sisuar\app\Controllers\SuratMasuk.php(36): CodeIgniter\BaseModel->save(Array)
+#9 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(904): App\Controllers\SuratMasuk->tambahSuratMasuk()
+#10 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+#11 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\XAMPP\htdocs\sisuar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-09-06 22:14:08 --> Column 'ket_surat' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Himakom ULM\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Himakom ULM\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Himakom ULM\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Duit Bytecomp\', NULL, \'-\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `ket_surat`, `file`) VALUES (:no_surat:, :asal_surat:, :tujuan_surat:, :perihal:, :ket_surat:, :file:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(658): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\SuratMasuk.php(36): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->tambahSuratMasuk()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-06 22:23:38 --> mysqli_sql_exception: Column 'tanggal_masuk' cannot be null in F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `su...', 0)
+#1 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 F:\XAMPP\htdocs\sisuar\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 F:\XAMPP\htdocs\sisuar\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 F:\XAMPP\htdocs\sisuar\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, false)
+#7 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 F:\XAMPP\htdocs\sisuar\app\Controllers\SuratMasuk.php(36): CodeIgniter\BaseModel->save(Array)
+#9 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(904): App\Controllers\SuratMasuk->tambahSuratMasuk()
+#10 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+#11 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\XAMPP\htdocs\sisuar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-09-06 22:23:38 --> Column 'tanggal_masuk' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_masuk`, `ket_surat`, `file`) VALUES (\'2-5/PANRB/CG53/03/2022\', \'Banjarmasin\', \'Kepala Dinas PUPR Prov.Kalsel\', \'dasdas\', NULL, NULL, \'-\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_masuk`, `ket_surat`, `file`) VALUES (\'2-5/PANRB/CG53/03/2022\', \'Banjarmasin\', \'Kepala Dinas PUPR Prov.Kalsel\', \'dasdas\', NULL, NULL, \'-\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_masuk`, `ket_surat`, `file`) VALUES (\'2-5/PANRB/CG53/03/2022\', \'Banjarmasin\', \'Kepala Dinas PUPR Prov.Kalsel\', \'dasdas\', NULL, NULL, \'-\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_masuk`, `ket_surat`, `file`) VALUES (:no_surat:, :asal_surat:, :tujuan_surat:, :perihal:, :tanggal_masuk:, :ket_surat:, :file:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(658): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\SuratMasuk.php(36): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->tambahSuratMasuk()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 22:25:55 --> Undefined property: App\Controllers\SuratKeluar::$SuratMasukModels
+in APPPATH\Controllers\SuratKeluar.php on line 35.
+ 1 APPPATH\Controllers\SuratKeluar.php(35): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\SuratKeluar::$SuratMasukModels', 'APPPATH\\Controllers\\SuratKeluar.php', 35, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratKeluar->tambahSuratKeluar()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratKeluar))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-06 22:26:39 --> mysqli_sql_exception: Unknown column 'created_at' in 'field list' in F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `su...', 0)
+#1 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 F:\XAMPP\htdocs\sisuar\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 F:\XAMPP\htdocs\sisuar\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 F:\XAMPP\htdocs\sisuar\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, false)
+#7 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 F:\XAMPP\htdocs\sisuar\app\Controllers\SuratKeluar.php(35): CodeIgniter\BaseModel->save(Array)
+#9 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(904): App\Controllers\SuratKeluar->tambahSuratKeluar()
+#10 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratKeluar))
+#11 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\XAMPP\htdocs\sisuar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-09-06 22:26:39 --> Unknown column 'created_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `surat_keluar` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_keluar`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'2-5/PANRB/CG53/03/2022\', \'Bina Kontruksi\', \'Himakom\', \'Duit Bytecomp\', \'2022-09-07\', NULL, \'-\', \'2022-09-06 22:26:39\', \'2022-09-06 22:26:39\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `surat_keluar` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_keluar`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'2-5/PANRB/CG53/03/2022\', \'Bina Kontruksi\', \'Himakom\', \'Duit Bytecomp\', \'2022-09-07\', NULL, \'-\', \'2022-09-06 22:26:39\', \'2022-09-06 22:26:39\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `surat_keluar` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_keluar`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'2-5/PANRB/CG53/03/2022\', \'Bina Kontruksi\', \'Himakom\', \'Duit Bytecomp\', \'2022-09-07\', NULL, \'-\', \'2022-09-06 22:26:39\', \'2022-09-06 22:26:39\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `surat_keluar` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_keluar`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (:no_surat:, :asal_surat:, :tujuan_surat:, :perihal:, :tanggal_keluar:, :ket_surat:, :file:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(658): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\SuratKeluar.php(35): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratKeluar->tambahSuratKeluar()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratKeluar))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-06 22:27:50 --> mysqli_sql_exception: Unknown column 'updated_at' in 'field list' in F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `su...', 0)
+#1 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 F:\XAMPP\htdocs\sisuar\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 F:\XAMPP\htdocs\sisuar\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 F:\XAMPP\htdocs\sisuar\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, false)
+#7 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 F:\XAMPP\htdocs\sisuar\app\Controllers\SuratKeluar.php(35): CodeIgniter\BaseModel->save(Array)
+#9 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(904): App\Controllers\SuratKeluar->tambahSuratKeluar()
+#10 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratKeluar))
+#11 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\XAMPP\htdocs\sisuar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-09-06 22:27:50 --> Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `surat_keluar` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_keluar`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'2-5/PANRB/CG53/03/2022\', \'Bina Kontruksi\', \'Himakom\', \'Duit Bytecomp\', \'2022-09-07\', NULL, \'-\', \'2022-09-06 22:27:50\', \'2022-09-06 22:27:50\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `surat_keluar` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_keluar`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'2-5/PANRB/CG53/03/2022\', \'Bina Kontruksi\', \'Himakom\', \'Duit Bytecomp\', \'2022-09-07\', NULL, \'-\', \'2022-09-06 22:27:50\', \'2022-09-06 22:27:50\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `surat_keluar` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_keluar`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'2-5/PANRB/CG53/03/2022\', \'Bina Kontruksi\', \'Himakom\', \'Duit Bytecomp\', \'2022-09-07\', NULL, \'-\', \'2022-09-06 22:27:50\', \'2022-09-06 22:27:50\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `surat_keluar` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_keluar`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (:no_surat:, :asal_surat:, :tujuan_surat:, :perihal:, :tanggal_keluar:, :ket_surat:, :file:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(658): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\SuratKeluar.php(35): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratKeluar->tambahSuratKeluar()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratKeluar))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-06 22:28:06 --> mysqli_sql_exception: Unknown column 'updated_at' in 'field list' in F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `su...', 0)
+#1 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 F:\XAMPP\htdocs\sisuar\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 F:\XAMPP\htdocs\sisuar\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 F:\XAMPP\htdocs\sisuar\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, false)
+#7 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 F:\XAMPP\htdocs\sisuar\app\Controllers\SuratKeluar.php(35): CodeIgniter\BaseModel->save(Array)
+#9 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(904): App\Controllers\SuratKeluar->tambahSuratKeluar()
+#10 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratKeluar))
+#11 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\XAMPP\htdocs\sisuar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-09-06 22:28:06 --> Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `surat_keluar` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_keluar`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'2-5/PANRB/CG53/03/2022\', \'Himakom ULM\', \'Himakom\', \'Duit Bytecomp\', \'2022-09-08\', NULL, \'-\', \'2022-09-06 22:28:06\', \'2022-09-06 22:28:06\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `surat_keluar` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_keluar`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'2-5/PANRB/CG53/03/2022\', \'Himakom ULM\', \'Himakom\', \'Duit Bytecomp\', \'2022-09-08\', NULL, \'-\', \'2022-09-06 22:28:06\', \'2022-09-06 22:28:06\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `surat_keluar` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_keluar`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (\'2-5/PANRB/CG53/03/2022\', \'Himakom ULM\', \'Himakom\', \'Duit Bytecomp\', \'2022-09-08\', NULL, \'-\', \'2022-09-06 22:28:06\', \'2022-09-06 22:28:06\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `surat_keluar` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_keluar`, `ket_surat`, `file`, `created_at`, `updated_at`) VALUES (:no_surat:, :asal_surat:, :tujuan_surat:, :perihal:, :tanggal_keluar:, :ket_surat:, :file:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(658): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\SuratKeluar.php(35): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratKeluar->tambahSuratKeluar()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratKeluar))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-06 22:28:43 --> mysqli_sql_exception: Column 'ket_surat' cannot be null in F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `su...', 0)
+#1 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 F:\XAMPP\htdocs\sisuar\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 F:\XAMPP\htdocs\sisuar\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 F:\XAMPP\htdocs\sisuar\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, false)
+#7 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 F:\XAMPP\htdocs\sisuar\app\Controllers\SuratKeluar.php(35): CodeIgniter\BaseModel->save(Array)
+#9 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(904): App\Controllers\SuratKeluar->tambahSuratKeluar()
+#10 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratKeluar))
+#11 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\XAMPP\htdocs\sisuar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-09-06 22:28:43 --> Column 'ket_surat' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `surat_keluar` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_keluar`, `ket_surat`, `file`) VALUES (\'2-5/PANRB/CG53/03/2022\', \'Bina Kontruksi\', \'Himakom\', \'Duit Bytecomp\', \'2022-09-07\', NULL, \'-\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `surat_keluar` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_keluar`, `ket_surat`, `file`) VALUES (\'2-5/PANRB/CG53/03/2022\', \'Bina Kontruksi\', \'Himakom\', \'Duit Bytecomp\', \'2022-09-07\', NULL, \'-\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `surat_keluar` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_keluar`, `ket_surat`, `file`) VALUES (\'2-5/PANRB/CG53/03/2022\', \'Bina Kontruksi\', \'Himakom\', \'Duit Bytecomp\', \'2022-09-07\', NULL, \'-\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `surat_keluar` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_keluar`, `ket_surat`, `file`) VALUES (:no_surat:, :asal_surat:, :tujuan_surat:, :perihal:, :tanggal_keluar:, :ket_surat:, :file:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(658): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\SuratKeluar.php(35): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratKeluar->tambahSuratKeluar()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratKeluar))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 23:04:21 --> Undefined variable: suratmasuk
+in APPPATH\Views\surat\dashboardsurat.php on line 78.
+ 1 APPPATH\Views\surat\dashboardsurat.php(78): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: suratmasuk', 'APPPATH\\Views\\surat\\dashboardsurat.php', 78, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\surat\\dashboardsurat.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/dashboardsurat.php', [], true)
+ 5 APPPATH\Controllers\BerandaSurat.php(13): view('surat/dashboardsurat.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BerandaSurat->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BerandaSurat))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 23:05:28 --> Undefined variable: suratmasuk
+in APPPATH\Views\surat\dashboardsurat.php on line 78.
+ 1 APPPATH\Views\surat\dashboardsurat.php(78): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: suratmasuk', 'APPPATH\\Views\\surat\\dashboardsurat.php', 78, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\surat\\dashboardsurat.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/dashboardsurat.php', [], true)
+ 5 APPPATH\Controllers\BerandaSurat.php(13): view('surat/dashboardsurat.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BerandaSurat->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BerandaSurat))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 23:05:29 --> Undefined variable: suratmasuk
+in APPPATH\Views\surat\dashboardsurat.php on line 78.
+ 1 APPPATH\Views\surat\dashboardsurat.php(78): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: suratmasuk', 'APPPATH\\Views\\surat\\dashboardsurat.php', 78, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\surat\\dashboardsurat.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/dashboardsurat.php', [], true)
+ 5 APPPATH\Controllers\BerandaSurat.php(13): view('surat/dashboardsurat.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BerandaSurat->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BerandaSurat))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 23:05:30 --> Undefined variable: suratmasuk
+in APPPATH\Views\surat\dashboardsurat.php on line 78.
+ 1 APPPATH\Views\surat\dashboardsurat.php(78): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: suratmasuk', 'APPPATH\\Views\\surat\\dashboardsurat.php', 78, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\surat\\dashboardsurat.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/dashboardsurat.php', [], true)
+ 5 APPPATH\Controllers\BerandaSurat.php(13): view('surat/dashboardsurat.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BerandaSurat->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BerandaSurat))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 23:14:39 --> Call to undefined method App\Models\SuratKeluarModels::hitungSuratMasuk
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Controllers\BerandaSurat.php(24): CodeIgniter\Model->__call('hitungSuratMasuk', [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BerandaSurat->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BerandaSurat))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-06 23:20:33 --> Call to undefined method App\Models\SuratMasukModels::hitungSuratKeluar
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Controllers\BerandaSurat.php(25): CodeIgniter\Model->__call('hitungSuratKeluar', [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BerandaSurat->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BerandaSurat))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

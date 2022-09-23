@@ -1,0 +1,427 @@
+ERROR - 2022-09-12 00:52:12 --> mysqli_sql_exception: Unknown column 'id' in 'where clause' in C:\xampp\htdocs\sisuar\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\sisuar\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\sisuar\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\sisuar\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\sisuar\system\Database\BaseBuilder.php(1669): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\sisuar\system\Model.php(551): CodeIgniter\Database\BaseBuilder->countAllResults(true)
+#5 C:\xampp\htdocs\sisuar\app\Controllers\SuratMasuk.php(62): CodeIgniter\Model->countAllResults()
+#6 C:\xampp\htdocs\sisuar\system\CodeIgniter.php(904): App\Controllers\SuratMasuk->formEditSuratMasuk('6')
+#7 C:\xampp\htdocs\sisuar\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+#8 C:\xampp\htdocs\sisuar\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\sisuar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-09-12 00:52:12 --> Unknown column 'id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*) AS `numrows`
+FROM `surat_masuk`
+WHERE `id` = \'formEditSuratMasuk\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM `surat_masuk`
+WHERE `id` = \'formEditSuratMasuk\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM `surat_masuk`
+WHERE `id` = \'formEditSuratMasuk\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1669): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `surat_masuk`
+WHERE `id` = :id:', [...], false)
+ 5 SYSTEMPATH\Model.php(551): CodeIgniter\Database\BaseBuilder->countAllResults(true)
+ 6 APPPATH\Controllers\SuratMasuk.php(62): CodeIgniter\Model->countAllResults()
+ 7 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->formEditSuratMasuk('6')
+ 8 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-12 00:54:06 --> mysqli_sql_exception: Unknown column 'id' in 'where clause' in C:\xampp\htdocs\sisuar\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\sisuar\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\sisuar\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\sisuar\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\sisuar\system\Database\BaseBuilder.php(1669): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\sisuar\system\Model.php(551): CodeIgniter\Database\BaseBuilder->countAllResults(true)
+#5 C:\xampp\htdocs\sisuar\app\Controllers\SuratMasuk.php(62): CodeIgniter\Model->countAllResults()
+#6 C:\xampp\htdocs\sisuar\system\CodeIgniter.php(904): App\Controllers\SuratMasuk->formEditSuratMasuk('6')
+#7 C:\xampp\htdocs\sisuar\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+#8 C:\xampp\htdocs\sisuar\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\sisuar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-09-12 00:54:06 --> Unknown column 'id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*) AS `numrows`
+FROM `surat_masuk`
+WHERE `id` = \'formEditSuratMasuk\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM `surat_masuk`
+WHERE `id` = \'formEditSuratMasuk\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM `surat_masuk`
+WHERE `id` = \'formEditSuratMasuk\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1669): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `surat_masuk`
+WHERE `id` = :id:', [...], false)
+ 5 SYSTEMPATH\Model.php(551): CodeIgniter\Database\BaseBuilder->countAllResults(true)
+ 6 APPPATH\Controllers\SuratMasuk.php(62): CodeIgniter\Model->countAllResults()
+ 7 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->formEditSuratMasuk('6')
+ 8 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-12 00:54:29 --> mysqli_sql_exception: Unknown column 'id' in 'where clause' in C:\xampp\htdocs\sisuar\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\sisuar\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\sisuar\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\sisuar\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\sisuar\system\Database\BaseBuilder.php(1669): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\sisuar\system\Model.php(551): CodeIgniter\Database\BaseBuilder->countAllResults(true)
+#5 C:\xampp\htdocs\sisuar\app\Controllers\SuratMasuk.php(62): CodeIgniter\Model->countAllResults()
+#6 C:\xampp\htdocs\sisuar\system\CodeIgniter.php(904): App\Controllers\SuratMasuk->formEditSuratMasuk('6')
+#7 C:\xampp\htdocs\sisuar\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+#8 C:\xampp\htdocs\sisuar\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\sisuar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-09-12 00:54:29 --> Unknown column 'id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*) AS `numrows`
+FROM `surat_masuk`
+WHERE `id` = \'formEditSuratMasuk\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM `surat_masuk`
+WHERE `id` = \'formEditSuratMasuk\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM `surat_masuk`
+WHERE `id` = \'formEditSuratMasuk\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1669): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `surat_masuk`
+WHERE `id` = :id:', [...], false)
+ 5 SYSTEMPATH\Model.php(551): CodeIgniter\Database\BaseBuilder->countAllResults(true)
+ 6 APPPATH\Controllers\SuratMasuk.php(62): CodeIgniter\Model->countAllResults()
+ 7 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->formEditSuratMasuk('6')
+ 8 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-12 01:02:07 --> Undefined variable: dataEdit
+in APPPATH\Views\surat\suratmasuk\indexsuratmasuk.php on line 129.
+ 1 APPPATH\Views\surat\suratmasuk\indexsuratmasuk.php(129): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: dataEdit', 'APPPATH\\Views\\surat\\suratmasuk\\indexsuratmasuk.php', 129, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\surat\\suratmasuk\\indexsuratmasuk.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/suratmasuk/indexsuratmasuk.php', [], true)
+ 5 APPPATH\Controllers\SuratMasuk.php(31): view('surat/suratmasuk/indexsuratmasuk.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-12 01:03:26 --> Undefined variable: dataEdit
+in APPPATH\Views\surat\suratmasuk\indexsuratmasuk.php on line 129.
+ 1 APPPATH\Views\surat\suratmasuk\indexsuratmasuk.php(129): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: dataEdit', 'APPPATH\\Views\\surat\\suratmasuk\\indexsuratmasuk.php', 129, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\surat\\suratmasuk\\indexsuratmasuk.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/suratmasuk/indexsuratmasuk.php', [], true)
+ 5 APPPATH\Controllers\SuratMasuk.php(31): view('surat/suratmasuk/indexsuratmasuk.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-12 01:29:20 --> Undefined variable: dataEdit
+in APPPATH\Views\surat\suratmasuk\indexsuratmasuk.php on line 124.
+ 1 APPPATH\Views\surat\suratmasuk\indexsuratmasuk.php(124): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: dataEdit', 'APPPATH\\Views\\surat\\suratmasuk\\indexsuratmasuk.php', 124, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\surat\\suratmasuk\\indexsuratmasuk.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/suratmasuk/indexsuratmasuk.php', [], true)
+ 5 APPPATH\Controllers\SuratMasuk.php(31): view('surat/suratmasuk/indexsuratmasuk.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-12 01:30:30 --> Undefined variable: dataEdit
+in APPPATH\Views\surat\suratmasuk\indexsuratmasuk.php on line 124.
+ 1 APPPATH\Views\surat\suratmasuk\indexsuratmasuk.php(124): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: dataEdit', 'APPPATH\\Views\\surat\\suratmasuk\\indexsuratmasuk.php', 124, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\surat\\suratmasuk\\indexsuratmasuk.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/suratmasuk/indexsuratmasuk.php', [], true)
+ 5 APPPATH\Controllers\SuratMasuk.php(32): view('surat/suratmasuk/indexsuratmasuk.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-12 01:31:35 --> Call to undefined method App\Models\SuratMasukModels::getOne
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Controllers\SuratMasuk.php(37): CodeIgniter\Model->__call('getOne', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-12 01:32:30 --> Undefined variable: dataEdit
+in APPPATH\Views\surat\suratmasuk\indexsuratmasuk.php on line 124.
+ 1 APPPATH\Views\surat\suratmasuk\indexsuratmasuk.php(124): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: dataEdit', 'APPPATH\\Views\\surat\\suratmasuk\\indexsuratmasuk.php', 124, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\surat\\suratmasuk\\indexsuratmasuk.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/suratmasuk/indexsuratmasuk.php', [...], true)
+ 5 APPPATH\Controllers\SuratMasuk.php(42): view('surat/suratmasuk/indexsuratmasuk.php', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-12 21:28:56 --> mysqli_sql_exception: Column 'isi_ringkas' cannot be null in F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `su...', 0)
+#1 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 F:\XAMPP\htdocs\sisuar\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 F:\XAMPP\htdocs\sisuar\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 F:\XAMPP\htdocs\sisuar\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, false)
+#7 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 F:\XAMPP\htdocs\sisuar\app\Controllers\SuratMasuk.php(59): CodeIgniter\BaseModel->save(Array)
+#9 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(904): App\Controllers\SuratMasuk->tambahSuratMasuk()
+#10 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+#11 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\XAMPP\htdocs\sisuar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-09-12 21:28:56 --> Column 'isi_ringkas' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_masuk`, `isi_ringkas`, `ket_surat`, `alasan`, `jenis_surat`, `file`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Himakom ULM\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Kegiatan Bytecomp Himakom 2022\', \'2022-09-13\', NULL, \'Ya\', \'Tidak Relevan\', \'Surat Masuk\', \'-\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_masuk`, `isi_ringkas`, `ket_surat`, `alasan`, `jenis_surat`, `file`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Himakom ULM\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Kegiatan Bytecomp Himakom 2022\', \'2022-09-13\', NULL, \'Ya\', \'Tidak Relevan\', \'Surat Masuk\', \'-\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_masuk`, `isi_ringkas`, `ket_surat`, `alasan`, `jenis_surat`, `file`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Himakom ULM\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Kegiatan Bytecomp Himakom 2022\', \'2022-09-13\', NULL, \'Ya\', \'Tidak Relevan\', \'Surat Masuk\', \'-\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_masuk`, `isi_ringkas`, `ket_surat`, `alasan`, `jenis_surat`, `file`) VALUES (:no_surat:, :asal_surat:, :tujuan_surat:, :perihal:, :tanggal_masuk:, :isi_ringkas:, :ket_surat:, :alasan:, :jenis_surat:, :file:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(658): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\SuratMasuk.php(59): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->tambahSuratMasuk()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-12 21:29:16 --> mysqli_sql_exception: Column 'isi_ringkas' cannot be null in F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `su...', 0)
+#1 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 F:\XAMPP\htdocs\sisuar\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 F:\XAMPP\htdocs\sisuar\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 F:\XAMPP\htdocs\sisuar\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, false)
+#7 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 F:\XAMPP\htdocs\sisuar\app\Controllers\SuratMasuk.php(59): CodeIgniter\BaseModel->save(Array)
+#9 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(904): App\Controllers\SuratMasuk->tambahSuratMasuk()
+#10 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+#11 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\XAMPP\htdocs\sisuar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-09-12 21:29:16 --> Column 'isi_ringkas' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_masuk`, `isi_ringkas`, `ket_surat`, `alasan`, `jenis_surat`, `file`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Himakom ULM\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Kegiatan Bytecomp Himakom 2022\', \'2022-09-13\', NULL, \'Ya\', \'Tidak Relevan\', \'Surat Masuk\', \'-\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_masuk`, `isi_ringkas`, `ket_surat`, `alasan`, `jenis_surat`, `file`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Himakom ULM\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Kegiatan Bytecomp Himakom 2022\', \'2022-09-13\', NULL, \'Ya\', \'Tidak Relevan\', \'Surat Masuk\', \'-\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_masuk`, `isi_ringkas`, `ket_surat`, `alasan`, `jenis_surat`, `file`) VALUES (\'C2-5/PANRB/CG53/03/2022\', \'Himakom ULM\', \'Kepala Dinas PUPR Prov.Kalsel\', \'Kegiatan Bytecomp Himakom 2022\', \'2022-09-13\', NULL, \'Ya\', \'Tidak Relevan\', \'Surat Masuk\', \'-\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `surat_masuk` (`no_surat`, `asal_surat`, `tujuan_surat`, `perihal`, `tanggal_masuk`, `isi_ringkas`, `ket_surat`, `alasan`, `jenis_surat`, `file`) VALUES (:no_surat:, :asal_surat:, :tujuan_surat:, :perihal:, :tanggal_masuk:, :isi_ringkas:, :ket_surat:, :alasan:, :jenis_surat:, :file:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(658): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\SuratMasuk.php(59): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->tambahSuratMasuk()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-12 21:44:59 --> Undefined variable: suratedit
+in APPPATH\Views\surat\suratkeluar\indexsuratkeluar.php on line 106.
+ 1 APPPATH\Views\surat\suratkeluar\indexsuratkeluar.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: suratedit', 'APPPATH\\Views\\surat\\suratkeluar\\indexsuratkeluar.php', 106, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\surat\\suratkeluar\\indexsuratkeluar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/suratkeluar/indexsuratkeluar.php', [], true)
+ 5 APPPATH\Controllers\SuratKeluar.php(31): view('surat/suratkeluar/indexsuratkeluar.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratKeluar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratKeluar))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-12 21:46:22 --> Undefined variable: suratedit
+in APPPATH\Views\surat\suratkeluar\indexsuratkeluar.php on line 106.
+ 1 APPPATH\Views\surat\suratkeluar\indexsuratkeluar.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: suratedit', 'APPPATH\\Views\\surat\\suratkeluar\\indexsuratkeluar.php', 106, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\surat\\suratkeluar\\indexsuratkeluar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/suratkeluar/indexsuratkeluar.php', [], true)
+ 5 APPPATH\Controllers\SuratKeluar.php(31): view('surat/suratkeluar/indexsuratkeluar.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratKeluar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratKeluar))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-12 21:46:33 --> syntax error, unexpected '$filedetail' (T_VARIABLE)
+in APPPATH\Controllers\SuratKeluar.php on line 38.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\SuratKeluar.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\SuratKeluar')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\SuratKeluar')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\SuratKeluar')
+ 5 SYSTEMPATH\CodeIgniter.php(854): class_exists('\\App\\Controllers\\SuratKeluar', true)
+ 6 SYSTEMPATH\CodeIgniter.php(444): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-12 21:54:43 --> Undefined variable: suratedit
+in APPPATH\Views\surat\suratkeluar\indexsuratkeluar.php on line 106.
+ 1 APPPATH\Views\surat\suratkeluar\indexsuratkeluar.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: suratedit', 'APPPATH\\Views\\surat\\suratkeluar\\indexsuratkeluar.php', 106, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\surat\\suratkeluar\\indexsuratkeluar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/suratkeluar/indexsuratkeluar.php', [], true)
+ 5 APPPATH\Controllers\SuratKeluar.php(31): view('surat/suratkeluar/indexsuratkeluar.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratKeluar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratKeluar))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-12 21:54:46 --> Undefined variable: suratedit
+in APPPATH\Views\surat\suratkeluar\indexsuratkeluar.php on line 106.
+ 1 APPPATH\Views\surat\suratkeluar\indexsuratkeluar.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: suratedit', 'APPPATH\\Views\\surat\\suratkeluar\\indexsuratkeluar.php', 106, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\surat\\suratkeluar\\indexsuratkeluar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/suratkeluar/indexsuratkeluar.php', [], true)
+ 5 APPPATH\Controllers\SuratKeluar.php(31): view('surat/suratkeluar/indexsuratkeluar.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratKeluar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratKeluar))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-12 21:55:43 --> mysqli_sql_exception: Column 'file' cannot be null in F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `su...', 0)
+#1 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 F:\XAMPP\htdocs\sisuar\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 F:\XAMPP\htdocs\sisuar\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 F:\XAMPP\htdocs\sisuar\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, false)
+#7 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 F:\XAMPP\htdocs\sisuar\app\Controllers\SuratKeluar.php(46): CodeIgniter\BaseModel->save(Array)
+#9 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(904): App\Controllers\SuratKeluar->tambahSuratKeluar()
+#10 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratKeluar))
+#11 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\XAMPP\htdocs\sisuar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-09-12 21:55:43 --> Column 'file' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `surat_keluar` (`no_surat`, `tujuan_surat`, `perihal`, `tanggal_keluar`, `isi_ringkas`, `file`) VALUES (\'BJM-11\', \'Himakom\', \'Duit Bytecomp\', \'2022-09-13\', \'Permohonan Dana Kegiatan Bytecomp Himakom 2022 Tingkat Nasional\', NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `surat_keluar` (`no_surat`, `tujuan_surat`, `perihal`, `tanggal_keluar`, `isi_ringkas`, `file`) VALUES (\'BJM-11\', \'Himakom\', \'Duit Bytecomp\', \'2022-09-13\', \'Permohonan Dana Kegiatan Bytecomp Himakom 2022 Tingkat Nasional\', NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `surat_keluar` (`no_surat`, `tujuan_surat`, `perihal`, `tanggal_keluar`, `isi_ringkas`, `file`) VALUES (\'BJM-11\', \'Himakom\', \'Duit Bytecomp\', \'2022-09-13\', \'Permohonan Dana Kegiatan Bytecomp Himakom 2022 Tingkat Nasional\', NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `surat_keluar` (`no_surat`, `tujuan_surat`, `perihal`, `tanggal_keluar`, `isi_ringkas`, `file`) VALUES (:no_surat:, :tujuan_surat:, :perihal:, :tanggal_keluar:, :isi_ringkas:, :file:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(658): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\SuratKeluar.php(46): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratKeluar->tambahSuratKeluar()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratKeluar))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-12 21:55:54 --> mysqli_sql_exception: Column 'file' cannot be null in F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 F:\XAMPP\htdocs\sisuar\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `su...', 0)
+#1 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 F:\XAMPP\htdocs\sisuar\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 F:\XAMPP\htdocs\sisuar\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 F:\XAMPP\htdocs\sisuar\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 F:\XAMPP\htdocs\sisuar\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, false)
+#7 F:\XAMPP\htdocs\sisuar\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 F:\XAMPP\htdocs\sisuar\app\Controllers\SuratKeluar.php(46): CodeIgniter\BaseModel->save(Array)
+#9 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(904): App\Controllers\SuratKeluar->tambahSuratKeluar()
+#10 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratKeluar))
+#11 F:\XAMPP\htdocs\sisuar\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\XAMPP\htdocs\sisuar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-09-12 21:55:54 --> Column 'file' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `surat_keluar` (`no_surat`, `tujuan_surat`, `perihal`, `tanggal_keluar`, `isi_ringkas`, `file`) VALUES (\'BJM-11\', \'Himakom\', \'Duit Bytecomp\', \'2022-09-13\', \'Permohonan Dana Kegiatan Bytecomp Himakom 2022 Tingkat Nasional\', NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `surat_keluar` (`no_surat`, `tujuan_surat`, `perihal`, `tanggal_keluar`, `isi_ringkas`, `file`) VALUES (\'BJM-11\', \'Himakom\', \'Duit Bytecomp\', \'2022-09-13\', \'Permohonan Dana Kegiatan Bytecomp Himakom 2022 Tingkat Nasional\', NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `surat_keluar` (`no_surat`, `tujuan_surat`, `perihal`, `tanggal_keluar`, `isi_ringkas`, `file`) VALUES (\'BJM-11\', \'Himakom\', \'Duit Bytecomp\', \'2022-09-13\', \'Permohonan Dana Kegiatan Bytecomp Himakom 2022 Tingkat Nasional\', NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `surat_keluar` (`no_surat`, `tujuan_surat`, `perihal`, `tanggal_keluar`, `isi_ringkas`, `file`) VALUES (:no_surat:, :tujuan_surat:, :perihal:, :tanggal_keluar:, :isi_ringkas:, :file:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(658): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\SuratKeluar.php(46): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratKeluar->tambahSuratKeluar()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratKeluar))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-12 22:12:48 --> Undefined index: asal_surat
+in APPPATH\Views\surat\dashboardsurat.php on line 103.
+ 1 APPPATH\Views\surat\dashboardsurat.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: asal_surat', 'APPPATH\\Views\\surat\\dashboardsurat.php', 103, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\surat\\dashboardsurat.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/dashboardsurat.php', [], true)
+ 5 APPPATH\Controllers\BerandaSurat.php(34): view('surat/dashboardsurat.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BerandaSurat->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BerandaSurat))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-12 22:13:06 --> Undefined index: asal_surat
+in APPPATH\Views\surat\dashboardsurat.php on line 103.
+ 1 APPPATH\Views\surat\dashboardsurat.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: asal_surat', 'APPPATH\\Views\\surat\\dashboardsurat.php', 103, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\surat\\dashboardsurat.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/dashboardsurat.php', [], true)
+ 5 APPPATH\Controllers\BerandaSurat.php(34): view('surat/dashboardsurat.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BerandaSurat->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BerandaSurat))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-12 22:13:16 --> Undefined index: asal_surat
+in APPPATH\Views\surat\dashboardsurat.php on line 103.
+ 1 APPPATH\Views\surat\dashboardsurat.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: asal_surat', 'APPPATH\\Views\\surat\\dashboardsurat.php', 103, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\surat\\dashboardsurat.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/dashboardsurat.php', [], true)
+ 5 APPPATH\Controllers\BerandaSurat.php(34): view('surat/dashboardsurat.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BerandaSurat->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BerandaSurat))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-12 22:14:16 --> Undefined index: asal_surat
+in APPPATH\Views\surat\dashboardsurat.php on line 103.
+ 1 APPPATH\Views\surat\dashboardsurat.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: asal_surat', 'APPPATH\\Views\\surat\\dashboardsurat.php', 103, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\surat\\dashboardsurat.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/dashboardsurat.php', [], true)
+ 5 APPPATH\Controllers\BerandaSurat.php(34): view('surat/dashboardsurat.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BerandaSurat->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BerandaSurat))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-12 22:14:18 --> Undefined index: asal_surat
+in APPPATH\Views\surat\dashboardsurat.php on line 103.
+ 1 APPPATH\Views\surat\dashboardsurat.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: asal_surat', 'APPPATH\\Views\\surat\\dashboardsurat.php', 103, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\surat\\dashboardsurat.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/dashboardsurat.php', [], true)
+ 5 APPPATH\Controllers\BerandaSurat.php(34): view('surat/dashboardsurat.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BerandaSurat->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BerandaSurat))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-12 22:14:18 --> Undefined index: asal_surat
+in APPPATH\Views\surat\dashboardsurat.php on line 103.
+ 1 APPPATH\Views\surat\dashboardsurat.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: asal_surat', 'APPPATH\\Views\\surat\\dashboardsurat.php', 103, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\surat\\dashboardsurat.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/dashboardsurat.php', [], true)
+ 5 APPPATH\Controllers\BerandaSurat.php(34): view('surat/dashboardsurat.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BerandaSurat->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BerandaSurat))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-12 22:14:19 --> Undefined index: asal_surat
+in APPPATH\Views\surat\dashboardsurat.php on line 103.
+ 1 APPPATH\Views\surat\dashboardsurat.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: asal_surat', 'APPPATH\\Views\\surat\\dashboardsurat.php', 103, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\surat\\dashboardsurat.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/dashboardsurat.php', [], true)
+ 5 APPPATH\Controllers\BerandaSurat.php(34): view('surat/dashboardsurat.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BerandaSurat->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BerandaSurat))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-12 22:19:30 --> Undefined index: 
+in APPPATH\Views\surat\dashboardsurat.php on line 90.
+ 1 APPPATH\Views\surat\dashboardsurat.php(90): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: ', 'APPPATH\\Views\\surat\\dashboardsurat.php', 90, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\surat\\dashboardsurat.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/dashboardsurat.php', [], true)
+ 5 APPPATH\Controllers\BerandaSurat.php(34): view('surat/dashboardsurat.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BerandaSurat->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BerandaSurat))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

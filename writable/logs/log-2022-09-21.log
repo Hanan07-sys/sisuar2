@@ -1,0 +1,12 @@
+CRITICAL - 2022-09-21 22:52:15 --> Undefined variable: jumlahSuratMasuk
+in APPPATH\Views\layout\surat\template.php on line 131.
+ 1 APPPATH\Views\layout\surat\template.php(131): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: jumlahSuratMasuk', 'APPPATH\\Views\\layout\\surat\\template.php', 131, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\layout\\surat\\template.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layout/surat/template', [], true)
+ 5 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/suratmasuk/formTambahSuratMasuk.php', [], true)
+ 6 APPPATH\Controllers\SuratMasuk.php(49): view('surat/suratmasuk/formTambahSuratMasuk.php', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->formTambahSuratMasuk()
+ 8 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

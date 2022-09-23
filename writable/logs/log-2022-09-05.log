@@ -1,0 +1,195 @@
+CRITICAL - 2022-09-05 20:35:16 --> Invalid file: surat/suratkeluar/indexsuratkeluar.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('surat/suratkeluar/indexsuratkeluar.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/suratkeluar/indexsuratkeluar.php', [], true)
+ 3 APPPATH\Controllers\SuratKeluar.php(13): view('surat/suratkeluar/indexsuratkeluar.php', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratKeluar->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratKeluar))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 20:35:23 --> Invalid file: surat/suratmasuk/indexsuratmasuk.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('surat/suratmasuk/indexsuratmasuk.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/suratmasuk/indexsuratmasuk.php', [], true)
+ 3 APPPATH\Controllers\SuratMasuk.php(13): view('surat/suratmasuk/indexsuratmasuk.php', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 20:35:34 --> Invalid file: surat/suratmasuk/indexsuratmasuk.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('surat/suratmasuk/indexsuratmasuk.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/suratmasuk/indexsuratmasuk.php', [], true)
+ 3 APPPATH\Controllers\SuratMasuk.php(13): view('surat/suratmasuk/indexsuratmasuk.php', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 20:35:44 --> Invalid file: surat/suratmasuk/indexsuratmasuk.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('surat/suratmasuk/indexsuratmasuk.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/suratmasuk/indexsuratmasuk.php', [], true)
+ 3 APPPATH\Controllers\SuratMasuk.php(13): view('surat/suratmasuk/indexsuratmasuk.php', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 20:37:24 --> Invalid file: surat/suratmasuk/indexsuratmasuk.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('surat/suratmasuk/indexsuratmasuk.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/suratmasuk/indexsuratmasuk.php', [], true)
+ 3 APPPATH\Controllers\SuratMasuk.php(13): view('surat/suratmasuk/indexsuratmasuk.php', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratMasuk->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratMasuk))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 22:00:43 --> Invalid file: layout/template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layout/template', [], true)
+ 3 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('home', [], true)
+ 4 APPPATH\Controllers\Home.php(13): view('home', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 22:00:56 --> Invalid file: layout/template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layout/template', [], true)
+ 3 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('home', [], true)
+ 4 APPPATH\Controllers\Home.php(13): view('home', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 22:01:53 --> Invalid file: layout/template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layout/template', [], true)
+ 3 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('home', [], true)
+ 4 APPPATH\Controllers\Home.php(13): view('home', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 22:01:54 --> Invalid file: layout/template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layout/template', [], true)
+ 3 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('home', [], true)
+ 4 APPPATH\Controllers\Home.php(13): view('home', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 22:01:54 --> Invalid file: layout/template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layout/template', [], true)
+ 3 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('home', [], true)
+ 4 APPPATH\Controllers\Home.php(13): view('home', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 22:01:54 --> Invalid file: layout/template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layout/template', [], true)
+ 3 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('home', [], true)
+ 4 APPPATH\Controllers\Home.php(13): view('home', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 22:03:18 --> Invalid file: layout/template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layout/template', [], true)
+ 3 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/dashboardsurat.php', [], true)
+ 4 APPPATH\Controllers\BerandaSurat.php(13): view('surat/dashboardsurat.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BerandaSurat->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BerandaSurat))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 22:03:29 --> Invalid file: layout/template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layout/template', [], true)
+ 3 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/dashboardsurat.php', [], true)
+ 4 APPPATH\Controllers\BerandaSurat.php(13): view('surat/dashboardsurat.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BerandaSurat->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BerandaSurat))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 22:03:35 --> Invalid file: layout/template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layout/template', [], true)
+ 3 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/dashboardsurat.php', [], true)
+ 4 APPPATH\Controllers\BerandaSurat.php(13): view('surat/dashboardsurat.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BerandaSurat->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BerandaSurat))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 22:04:09 --> Invalid file: layou/surat/template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layou/surat/template.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layou/surat/template', [], true)
+ 3 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/dashboardsurat.php', [], true)
+ 4 APPPATH\Controllers\BerandaSurat.php(13): view('surat/dashboardsurat.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BerandaSurat->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BerandaSurat))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 22:04:10 --> Invalid file: layou/surat/template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layou/surat/template.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layou/surat/template', [], true)
+ 3 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/dashboardsurat.php', [], true)
+ 4 APPPATH\Controllers\BerandaSurat.php(13): view('surat/dashboardsurat.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BerandaSurat->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BerandaSurat))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 22:06:22 --> Invalid file: layout/template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layout/template', [], true)
+ 3 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('arsip/dashboardarsip.php', [], true)
+ 4 APPPATH\Controllers\BerandaArsip.php(13): view('arsip/dashboardarsip.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BerandaArsip->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BerandaArsip))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 22:07:44 --> Invalid file: layout/template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layout/template', [], true)
+ 3 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/surattugas/indexsurattugas.php', [], true)
+ 4 APPPATH\Controllers\SuratTugas.php(13): view('surat/surattugas/indexsurattugas.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratTugas->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratTugas))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 22:07:47 --> Invalid file: layout/template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layout/template', [], true)
+ 3 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/surattugas/indexsurattugas.php', [], true)
+ 4 APPPATH\Controllers\SuratTugas.php(13): view('surat/surattugas/indexsurattugas.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratTugas->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratTugas))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 22:07:50 --> Invalid file: layout/template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layout/template', [], true)
+ 3 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('surat/suratkeluar/indexsuratkeluar.php', [], true)
+ 4 APPPATH\Controllers\SuratKeluar.php(13): view('surat/suratkeluar/indexsuratkeluar.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\SuratKeluar->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratKeluar))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
